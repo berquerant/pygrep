@@ -1,0 +1,8 @@
+__pycache__/
+._cache/
+.mypy_cache/
+.pytest_cache/
+.tox/
+.coverage*
+pygrep.egg-info/
+dist/
